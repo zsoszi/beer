@@ -1,0 +1,96 @@
+* {
+    max-width: 90%;
+}
+
+.cls-1,
+#cls-4 {
+    fill: #00bdff;
+}
+
+.cls-1 {
+    stroke: #f7fbfe;
+}
+
+.cls-1,
+.cls-11,
+.cls-12,
+.cls-3,
+.cls-5,
+.cls-7,
+.cls-8 {
+    stroke-miterlimit: 10;
+}
+
+.cls-2 {
+    fill: #0aa9e3;
+}
+
+.cls-3 {
+    fill: #e6f5fe;
+    stroke: #f2eeee;
+    stroke-width: 4px;
+}
+
+.cls-5,
+.cls-7 {
+    fill: #edc834;
+}
+
+.cls-5 {
+    stroke: #e4f4fe;
+    stroke-width: 7px;
+}
+
+.cls-6 {
+    fill: url(#Névtelen_színátmenet);
+}
+
+.cls-7 {
+    stroke: #1d1d1b;
+}
+
+.cls-8 {
+    fill: #46100d;
+}
+
+.cls-11,
+.cls-12,
+.cls-8 {
+    stroke: #000;
+}
+
+#cls-10,
+.cls-13,
+.cls-9 {
+    fill: #fff;
+}
+
+#cls-10,
+.cls-13 {
+    isolation: isolate;
+}
+
+#cls-10 {
+    font-size: 44px;
+    font-family: MaiandraGD-Regular, Maiandra GD;
+}
+
+.cls-11 {
+    fill: none;
+}
+
+.cls-12 {
+    fill: #aa2017;
+}
+
+.cls-13 {
+    opacity: 0.5;
+}
+
+.cls-14 {
+    fill: #e8ae34;
+}
+
+.cls-15 {
+    fill: #fffdf0;
+}
